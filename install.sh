@@ -33,7 +33,7 @@ elif [ "${OS}" = "Darwin" ]; then
     else
         HOMEBREW_PREFIX="/usr/local"
     fi
-    BLENDER_WGET_FILE='blender.dmg'
+    BLENDER_WGET_FILE='blenghder.dmg'
 
     BLENDER_VOLM='/Volumes/Blender'
     BLENDER_DIR='./Blender.app'

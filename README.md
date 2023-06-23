@@ -1,8 +1,6 @@
 ## [Infinigen: Infinite Photorealistic Worlds using Procedural Generation](https://infinigen.org)
 
-Please visit our website, [https://infinigen.org](https://infinigen.org)
 
-[![Infinigen Trailer](images/video_thumbnail.png)](https://youtu.be/6tgspeI-GHY)
 
 If you use Infinigen in your work, please cite our [academic paper]([https://arxiv.org/abs/2306.09310](https://arxiv.org/abs/2306.09310)):
 
